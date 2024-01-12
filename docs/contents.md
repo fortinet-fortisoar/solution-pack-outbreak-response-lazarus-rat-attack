@@ -16,6 +16,8 @@ The **Outbreak Response - Lazarus RAT Attack** solution pack contains the follow
 | Name                                              | Rule Type       |
 |:--------------------------------------------------|:----------------|
 | FortiAnalyzer Threat Hunting - Lazarus RAT Attack | Fortinet Fabric |
+| Outbreak: Lazarus RAT Attack Detected on Network  | Fortinet Fabric |
+| Outbreak: Lazarus RAT Attack Detected on Host     | Fortinet Fabric |
 
 # Next Steps
 
